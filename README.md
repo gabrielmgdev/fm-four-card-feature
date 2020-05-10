@@ -7,3 +7,9 @@ I've used pure CSS to achieve the design with the following techniques:
 - Variables
 - Media Queries
 - Flexbox
+
+You can see my solution here: [Live Site](https://brave-keller-9e8356.netlify.app/)
+
+Here is the design:
+
+![Preview Design](/design/desktop-preview.jpg)
